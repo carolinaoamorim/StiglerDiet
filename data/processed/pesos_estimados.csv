@@ -1,0 +1,21 @@
+alimento_normalizado,peso_normalizado,quantidade_g,tipo_conversao,observacao
+ovo,1 unidade,50,unidade_estimada,1 ovo medio sem casca.
+abacate,1 unidade,300,unidade_estimada,Parte comestivel estimada de 1 abacate medio.
+espinafre,1 maco,300,maco_estimado,Estimativa para 1 maco de espinafre.
+brocolis,1 unidade,300,unidade_estimada,Estimativa para 1 cabeca/unidade media de brocolis.
+couve flor,1 unidade,600,unidade_estimada,Estimativa para 1 unidade media de couve-flor.
+aspargos,1 maco,250,maco_estimado,Estimativa para 1 maco de aspargos.
+rucula,1 maco,120,maco_estimado,Estimativa para 1 maco de rucula.
+alho,1 cabeca,50,unidade_estimada,Estimativa para 1 cabeca de alho.
+limao,1 unidade,70,unidade_estimada,Estimativa para 1 limao medio.
+pepino,1 unidade,200,unidade_estimada,Estimativa para 1 pepino medio.
+hortela,1 maco,50,maco_estimado,Estimativa para 1 maco de hortela.
+suplemento de vitamina b12,60 capsulas,,rotulo_necessario,Usar dose do rotulo; massa em gramas nao representa o nutriente.
+mcmuffin bacon ovo e queijo,1 unidade,140,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+cafe expresso,1 unidade,50,volume_estimado,Estimativa de 1 cafe expresso como 50 ml aproximadamente 50 g.
+big mac,1 unidade,219,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+batata frita media,1 porcao,100,porcao_estimada,Estimativa de porcao media de batata frita.
+mcflurry ovomaltine,1 unidade,190,rotulo_estimado,Estimativa de massa da sobremesa; ideal substituir por rotulo nutricional.
+mcchicken,1 unidade,160,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+batata frita pequena,1 porcao,70,porcao_estimada,Estimativa de porcao pequena de batata frita.
+alface,1 unidade,300,unidade_estimada,Estimativa para 1 pe/unidade de alface.

@@ -1,0 +1,84 @@
+dieta,alimento,preco_medio,peso,alimento_normalizado,quantidade_g,fator_100g,tipo_conversao_quantidade,observacao_quantidade
+cetogenica,ovo,0.85,1 unidade,ovo,50.0,0.5,unidade_estimada,1 ovo medio sem casca.
+cetogenica,queijo muçarela,10.0,200 g,queijo mucarela,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,queijo parmesão ralado,20.0,100 g,queijo parmesao ralado,100.0,1.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,manteiga sem sal,14.0,200 g,manteiga sem sal,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,creme de leite fresco,12.0,200 ml,creme de leite fresco,200.0,2.0,volume_ml_estimado,Volume convertido usando densidade 1 ml = 1 g.
+cetogenica,azeite extra virgem,30.0,500 ml,azeite extra virgem,460.0,4.6,volume_ml_estimado,Volume de oleo/azeite convertido usando densidade aproximada 0.92 g/ml.
+cetogenica,abacate,8.0,1 unidade,abacate,300.0,3.0,unidade_estimada,Parte comestivel estimada de 1 abacate medio.
+cetogenica,espinafre,6.0,1 maço,espinafre,300.0,3.0,maco_estimado,Estimativa para 1 maco de espinafre.
+cetogenica,brócolis,7.0,1 unidade,brocolis,300.0,3.0,unidade_estimada,Estimativa para 1 cabeca/unidade media de brocolis.
+cetogenica,couve-flor,8.0,1 unidade,couve flor,600.0,6.0,unidade_estimada,Estimativa para 1 unidade media de couve-flor.
+cetogenica,aspargos,15.0,1 maço,aspargos,250.0,2.5,maco_estimado,Estimativa para 1 maco de aspargos.
+cetogenica,rúcula,4.0,1 maço,rucula,120.0,1.2,maco_estimado,Estimativa para 1 maco de rucula.
+cetogenica,tomate-cereja,6.0,200 g,tomate cereja,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,alho,3.0,1 cabeça,alho,50.0,0.5,unidade_estimada,Estimativa para 1 cabeca de alho.
+cetogenica,limão,1.0,1 unidade,limao,70.0,0.7,unidade_estimada,Estimativa para 1 limao medio.
+cetogenica,salmão,80.0,1 kg,salmao,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+cetogenica,carne bovina (ancho),79.9,1 kg,carne bovina ancho,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+cetogenica,mix de castanhas,25.0,200 g,mix de castanhas,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,castanha-do-pará,50.0,200 g,castanha do para,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,sementes de girassol,10.0,200 g,sementes de girassol,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+cetogenica,café em pó,25.0,500 g,cafe em po,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,aveia em flocos,6.0,500 g,aveia em flocos,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,leite vegetal (amêndoas),15.0,1 L,leite vegetal amendoas,1000.0,10.0,volume_l_estimado,Volume convertido usando densidade 1 ml = 1 g.
+vegana,banana,5.0,1 kg,banana,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,pasta de amendoim,22.0,500 g,pasta de amendoim,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,sementes de chia,15.0,250 g,sementes de chia,250.0,2.5,direto_g,Peso informado diretamente em gramas.
+vegana,linhaça,10.0,250 g,linhaca,250.0,2.5,direto_g,Peso informado diretamente em gramas.
+vegana,arroz integral,10.0,1 kg,arroz integral,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,feijão preto,10.0,1 kg,feijao preto,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,grão-de-bico,12.0,500 g,grao de bico,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,quinoa,25.0,500 g,quinoa,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,tofu,12.0,300 g,tofu,300.0,3.0,direto_g,Peso informado diretamente em gramas.
+vegana,shoyu,8.0,500 ml,shoyu,500.0,5.0,volume_ml_estimado,Volume convertido usando densidade 1 ml = 1 g.
+vegana,leite de coco,9.0,200 ml,leite de coco,200.0,2.0,volume_ml_estimado,Volume convertido usando densidade 1 ml = 1 g.
+vegana,iogurte vegetal (soja),14.0,500 g,iogurte vegetal soja,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,granola sem mel,18.0,500 g,granola sem mel,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+vegana,frutas vermelhas congeladas,25.0,300 g,frutas vermelhas congeladas,300.0,3.0,direto_g,Peso informado diretamente em gramas.
+vegana,espinafre,6.0,1 maço,espinafre,300.0,3.0,maco_estimado,Estimativa para 1 maco de espinafre.
+vegana,beterraba,5.0,1 kg,beterraba,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,cenoura,5.0,1 kg,cenoura,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,tomate,8.0,1 kg,tomate,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,pepino,4.0,1 unidade,pepino,200.0,2.0,unidade_estimada,Estimativa para 1 pepino medio.
+vegana,gengibre,15.0,1 kg,gengibre,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+vegana,hortelã,3.0,1 maço,hortela,50.0,0.5,maco_estimado,Estimativa para 1 maco de hortela.
+vegana,gergelim,8.0,100 g,gergelim,100.0,1.0,direto_g,Peso informado diretamente em gramas.
+vegana,azeite extra virgem,30.0,500 ml,azeite extra virgem,460.0,4.6,volume_ml_estimado,Volume de oleo/azeite convertido usando densidade aproximada 0.92 g/ml.
+vegana,limão,1.0,1 unidade,limao,70.0,0.7,unidade_estimada,Estimativa para 1 limao medio.
+vegana,suplemento de vitamina B12,30.0,60 cápsulas,suplemento de vitamina b12,,,rotulo_necessario,Usar dose do rotulo; massa em gramas nao representa o nutriente.
+mcdonalds,mcmuffin bacon ovo e queijo,14.9,1 unidade,mcmuffin bacon ovo e queijo,140.0,1.4,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+mcdonalds,café expresso,6.0,1 unidade,cafe expresso,50.0,0.5,volume_estimado,Estimativa de 1 cafe expresso como 50 ml aproximadamente 50 g.
+mcdonalds,big mac,26.9,1 unidade,big mac,219.0,2.19,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+mcdonalds,batata frita média,13.0,1 porção,batata frita media,100.0,1.0,porcao_estimada,Estimativa de porcao media de batata frita.
+mcdonalds,coca-cola média,10.0,500 ml,coca cola media,500.0,5.0,volume_ml_estimado,Volume convertido usando densidade 1 ml = 1 g.
+mcdonalds,mcflurry ovomaltine,17.0,1 unidade,mcflurry ovomaltine,190.0,1.9,rotulo_estimado,Estimativa de massa da sobremesa; ideal substituir por rotulo nutricional.
+mcdonalds,mcchicken,25.0,1 unidade,mcchicken,160.0,1.6,rotulo_estimado,Estimativa de massa do sanduiche; ideal substituir por rotulo nutricional.
+mcdonalds,batata frita pequena,9.0,1 porção,batata frita pequena,70.0,0.7,porcao_estimada,Estimativa de porcao pequena de batata frita.
+controle,pão francês,0.9,50 g,pao frances,50.0,0.5,direto_g,Peso informado diretamente em gramas.
+controle,manteiga,14.0,200 g,manteiga,200.0,2.0,direto_g,Peso informado diretamente em gramas.
+controle,queijo minas,45.0,1 kg,queijo minas,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,presunto,35.0,1 kg,presunto,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,café em pó,25.0,500 g,cafe em po,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+controle,leite integral,5.5,1 L,leite integral,1000.0,10.0,volume_l_estimado,Volume convertido usando densidade 1 ml = 1 g.
+controle,banana,5.0,1 kg,banana,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,mamão,6.0,1 kg,mamao,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,arroz,6.5,1 kg,arroz,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,feijão,9.8,1 kg,feijao,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,carne bovina,39.9,1 kg,carne bovina,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,frango,16.9,1 kg,frango,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,ovo,0.85,1 unidade,ovo,50.0,0.5,unidade_estimada,1 ovo medio sem casca.
+controle,batata,5.2,1 kg,batata,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,farofa pronta,8.0,500 g,farofa pronta,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+controle,alface,3.5,1 unidade,alface,300.0,3.0,unidade_estimada,Estimativa para 1 pe/unidade de alface.
+controle,tomate,8.0,1 kg,tomate,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,cenoura,5.0,1 kg,cenoura,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,óleo de soja,8.0,900 ml,oleo de soja,828.0,8.28,volume_ml_estimado,Volume de oleo/azeite convertido usando densidade aproximada 0.92 g/ml.
+controle,alho,3.0,1 cabeça,alho,50.0,0.5,unidade_estimada,Estimativa para 1 cabeca de alho.
+controle,cebola,5.0,1 kg,cebola,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,bolacha cream cracker,5.5,400 g,bolacha cream cracker,400.0,4.0,direto_g,Peso informado diretamente em gramas.
+controle,suco de laranja,8.0,1 L,suco de laranja,1000.0,10.0,volume_l_estimado,Volume convertido usando densidade 1 ml = 1 g.
+controle,maçã,9.0,1 kg,maca,1000.0,10.0,direto_kg,Peso convertido de kg para gramas.
+controle,macarrão,4.5,500 g,macarrao,500.0,5.0,direto_g,Peso informado diretamente em gramas.
+controle,molho de tomate,4.0,340 g,molho de tomate,340.0,3.4,direto_g,Peso informado diretamente em gramas.
+controle,pão francês,0.9,50 g,pao frances,50.0,0.5,direto_g,Peso informado diretamente em gramas.
