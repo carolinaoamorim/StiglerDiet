@@ -1,0 +1,84 @@
+dieta,alimento,preco_medio,peso
+cetogenica,ovo,0.85,1 unidade
+cetogenica,queijo muçarela,10.0,200 g
+cetogenica,queijo parmesão ralado,20.0,100 g
+cetogenica,manteiga sem sal,14.0,200 g
+cetogenica,creme de leite fresco,12.0,200 ml
+cetogenica,azeite extra virgem,30.0,500 ml
+cetogenica,abacate,8.0,1 unidade
+cetogenica,espinafre,6.0,1 maço
+cetogenica,brócolis,7.0,1 unidade
+cetogenica,couve-flor,8.0,1 unidade
+cetogenica,aspargos,15.0,1 maço
+cetogenica,rúcula,4.0,1 maço
+cetogenica,tomate-cereja,6.0,200 g
+cetogenica,alho,3.0,1 cabeça
+cetogenica,limão,1.0,1 unidade
+cetogenica,salmão,80.0,1 kg
+cetogenica,carne bovina (ancho),79.9,1 kg
+cetogenica,mix de castanhas,25.0,200 g
+cetogenica,castanha-do-pará,50.0,200 g
+cetogenica,sementes de girassol,10.0,200 g
+cetogenica,café em pó,25.0,500 g
+vegana,aveia em flocos,6.0,500 g
+vegana,leite vegetal (amêndoas),15.0,1 L
+vegana,banana,5.0,1 kg
+vegana,pasta de amendoim,22.0,500 g
+vegana,sementes de chia,15.0,250 g
+vegana,linhaça,10.0,250 g
+vegana,arroz integral,10.0,1 kg
+vegana,feijão preto,10.0,1 kg
+vegana,grão-de-bico,12.0,500 g
+vegana,quinoa,25.0,500 g
+vegana,tofu,12.0,300 g
+vegana,shoyu,8.0,500 ml
+vegana,leite de coco,9.0,200 ml
+vegana,iogurte vegetal (soja),14.0,500 g
+vegana,granola sem mel,18.0,500 g
+vegana,frutas vermelhas congeladas,25.0,300 g
+vegana,espinafre,6.0,1 maço
+vegana,beterraba,5.0,1 kg
+vegana,cenoura,5.0,1 kg
+vegana,tomate,8.0,1 kg
+vegana,pepino,4.0,1 unidade
+vegana,gengibre,15.0,1 kg
+vegana,hortelã,3.0,1 maço
+vegana,gergelim,8.0,100 g
+vegana,azeite extra virgem,30.0,500 ml
+vegana,limão,1.0,1 unidade
+vegana,suplemento de vitamina B12,30.0,60 cápsulas
+mcdonalds,mcmuffin bacon ovo e queijo,14.9,1 unidade
+mcdonalds,café expresso,6.0,1 unidade
+mcdonalds,big mac,26.9,1 unidade
+mcdonalds,batata frita média,13.0,1 porção
+mcdonalds,coca-cola média,10.0,500 ml
+mcdonalds,mcflurry ovomaltine,17.0,1 unidade
+mcdonalds,mcchicken,25.0,1 unidade
+mcdonalds,batata frita pequena,9.0,1 porção
+controle,pão francês,0.9,50 g
+controle,manteiga,14.0,200 g
+controle,queijo minas,45.0,1 kg
+controle,presunto,35.0,1 kg
+controle,café em pó,25.0,500 g
+controle,leite integral,5.5,1 L
+controle,banana,5.0,1 kg
+controle,mamão,6.0,1 kg
+controle,arroz,6.5,1 kg
+controle,feijão,9.8,1 kg
+controle,carne bovina,39.9,1 kg
+controle,frango,16.9,1 kg
+controle,ovo,0.85,1 unidade
+controle,batata,5.2,1 kg
+controle,farofa pronta,8.0,500 g
+controle,alface,3.5,1 unidade
+controle,tomate,8.0,1 kg
+controle,cenoura,5.0,1 kg
+controle,óleo de soja,8.0,900 ml
+controle,alho,3.0,1 cabeça
+controle,cebola,5.0,1 kg
+controle,bolacha cream cracker,5.5,400 g
+controle,suco de laranja,8.0,1 L
+controle,maçã,9.0,1 kg
+controle,macarrão,4.5,500 g
+controle,molho de tomate,4.0,340 g
+controle,pão francês,0.9,50 g
