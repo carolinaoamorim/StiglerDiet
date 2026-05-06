@@ -1,0 +1,74 @@
+alimento_normalizado,grupo_qualidade,fator_qualidade,acucar_adicionado_g_100g,observacao
+abacate,in_natura,1.0,0,Fruta in natura.
+alface,in_natura,1.0,0,Hortalica in natura.
+alho,in_natura,1.0,0,Hortalica/tempero in natura.
+arroz,minimamente_processado,1.0,0,Cereal cru/seco.
+arroz integral,minimamente_processado,1.0,0,Cereal cru/seco.
+aspargos,in_natura,1.0,0,Hortalica in natura.
+aveia em flocos,minimamente_processado,1.0,0,Cereal em flocos.
+azeite extra virgem,ingrediente_culinario,0.9,0,Oleo usado como ingrediente culinario.
+banana,in_natura,1.0,0,Fruta in natura.
+batata,in_natura,1.0,0,Tuberculo in natura.
+batata frita media,fast_food,0.25,0,Item de fast food; nutricao aproximada.
+batata frita pequena,fast_food,0.25,0,Item de fast food; nutricao aproximada.
+beterraba,in_natura,1.0,0,Hortalica in natura.
+big mac,fast_food,0.25,4,Item de fast food; acucar estimado para penalizacao.
+bolacha cream cracker,ultraprocessado,0.35,5,Produto industrializado; acucar estimado.
+brocolis,in_natura,1.0,0,Hortalica in natura.
+cafe em po,minimamente_processado,1.0,0,Cafe torrado/moido.
+cafe expresso,minimamente_processado,1.0,0,Bebida sem acucar assumido.
+carne bovina,minimamente_processado,1.0,0,Carne in natura.
+carne bovina ancho,minimamente_processado,1.0,0,Carne in natura.
+castanha do para,minimamente_processado,1.0,0,Noz/semente.
+cebola,in_natura,1.0,0,Hortalica in natura.
+cenoura,in_natura,1.0,0,Hortalica in natura.
+coca cola media,ultraprocessado,0.2,10.6,Refrigerante tipo cola; acucar estimado por 100 ml.
+couve flor,in_natura,1.0,0,Hortalica in natura.
+creme de leite fresco,processado,0.75,0,Laticinio processado.
+espinafre,in_natura,1.0,0,Hortalica in natura.
+farofa pronta,processado,0.6,0,Produto pronto/temperado.
+feijao,minimamente_processado,1.0,0,Leguminosa seca.
+feijao preto,minimamente_processado,1.0,0,Leguminosa seca.
+frango,minimamente_processado,1.0,0,Carne in natura.
+frutas vermelhas congeladas,minimamente_processado,0.9,0,Frutas congeladas sem acucar assumido.
+gengibre,in_natura,1.0,0,Tempero in natura.
+gergelim,minimamente_processado,1.0,0,Semente.
+granola sem mel,ultraprocessado,0.45,12,Produto industrializado; acucar estimado.
+grao de bico,minimamente_processado,1.0,0,Leguminosa seca.
+hortela,in_natura,1.0,0,Erva in natura.
+iogurte vegetal soja,ultraprocessado,0.5,8,Produto industrializado; acucar estimado.
+leite de coco,processado,0.75,0,Produto processado.
+leite integral,minimamente_processado,0.9,0,Leite sem acucar adicionado assumido.
+leite vegetal amendoas,ultraprocessado,0.5,3,Produto industrializado; acucar estimado.
+limao,in_natura,1.0,0,Fruta in natura.
+linhaca,minimamente_processado,1.0,0,Semente.
+maca,in_natura,1.0,0,Fruta in natura.
+macarrao,minimamente_processado,0.9,0,Cereal seco.
+mamao,in_natura,1.0,0,Fruta in natura.
+manteiga,ingrediente_culinario,0.75,0,Gordura/laticinio usado como ingrediente.
+manteiga sem sal,ingrediente_culinario,0.8,0,Gordura/laticinio usado como ingrediente.
+mcchicken,fast_food,0.25,3,Item de fast food; acucar estimado para penalizacao.
+mcflurry ovomaltine,fast_food,0.2,20,Sobremesa de fast food; acucar estimado.
+mcmuffin bacon ovo e queijo,fast_food,0.25,3,Item de fast food; acucar estimado para penalizacao.
+mix de castanhas,minimamente_processado,0.9,0,Mix de nozes/sementes sem acucar assumido.
+molho de tomate,processado,0.7,6,Molho industrializado; acucar estimado.
+oleo de soja,ingrediente_culinario,0.8,0,Oleo usado como ingrediente culinario.
+ovo,minimamente_processado,1.0,0,Ovo.
+pao frances,processado,0.7,0,Pao simples.
+pasta de amendoim,processado,0.7,2,Pasta industrializada; acucar estimado baixo.
+pepino,in_natura,1.0,0,Hortalica in natura.
+presunto,ultraprocessado,0.35,0,Embutido/industrializado.
+queijo minas,processado,0.75,0,Queijo.
+queijo mucarela,processado,0.7,0,Queijo.
+queijo parmesao ralado,processado,0.65,0,Queijo curado/ralado.
+quinoa,minimamente_processado,1.0,0,Cereal/grao seco; sem match TACO.
+rucula,in_natura,1.0,0,Hortalica in natura.
+salmao,minimamente_processado,1.0,0,Peixe in natura.
+sementes de chia,minimamente_processado,1.0,0,Semente; sem match TACO.
+sementes de girassol,minimamente_processado,1.0,0,Semente; sem match TACO.
+shoyu,ultraprocessado,0.35,1,Condimento industrializado rico em sodio.
+suco de laranja,minimamente_processado,0.85,0,Suco sem acucar adicionado assumido.
+suplemento de vitamina b12,suplemento,0.6,0,Suplemento; avaliar separadamente por dose.
+tofu,processado,0.8,0,Produto de soja processado.
+tomate,in_natura,1.0,0,Hortalica in natura.
+tomate cereja,in_natura,1.0,0,Hortalica in natura.
